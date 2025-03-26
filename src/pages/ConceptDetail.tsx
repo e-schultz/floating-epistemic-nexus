@@ -142,7 +142,9 @@ const ConceptDetail = () => {
                 >
                   {prevConcept && (
                     <button 
-                      onClick={() => navigate(`/concept/${prevConcept.id}`)}
+                      onClick={() => {
+                        navigate(`/concept/${prevConcept.id}`);
+                      }}
                       className="px-6 py-4 rounded-lg border border-white/10 bg-white/5 hover:bg-white/10 transition-colors text-left group"
                     >
                       <div className="flex items-center space-x-2 text-white/60 group-hover:text-white/80 transition-colors mb-1">
@@ -155,7 +157,9 @@ const ConceptDetail = () => {
                   
                   {nextConcept && (
                     <button 
-                      onClick={() => navigate(`/concept/${nextConcept.id}`)}
+                      onClick={() => {
+                        navigate(`/concept/${nextConcept.id}`);
+                      }}
                       className={`px-6 py-4 rounded-lg border border-white/10 bg-white/5 hover:bg-white/10 transition-colors text-right group ${!prevConcept ? 'md:col-start-2' : ''}`}
                     >
                       <div className="flex items-center justify-end space-x-2 text-white/60 group-hover:text-white/80 transition-colors mb-1">
