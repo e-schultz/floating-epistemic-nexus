@@ -1,4 +1,19 @@
-# Welcome to your Lovable project
+
+# FLOAT - Epistemic Nexus
+
+FLOAT is a conceptual framework presented as an interactive digital experience. It explores epistemology, identity, and heresy through visual language and symbolic representation.
+
+## Concepts
+
+FLOAT articulates seven core concepts represented through glyphs and visual metaphors:
+
+1. **Heresy as Interface** - Exploring unauthorized protocols as interfaces with forbidden truths
+2. **Identity as Wayfinding** - Understanding the self as a compass forged in wandering
+3. **Knowledge as Recursive Ritual** - Examining how knowledge must be callable, structurally and reverently
+4. **Horror as Unstable Epistemology** - Considering how horror breaks models of knowing
+5. **Liberation Through Breakdown** - Seeing how control systems collapse under recursive self-awareness
+6. **Memory as a Live System** - Understanding memory as ritual architecture, responsive and evolving
+7. **FLOAT Itself** - A way of surviving the archive, a rebellion staged in notation
 
 ## Project info
 
@@ -52,13 +67,15 @@ npm run dev
 
 ## What technologies are used for this project?
 
-This project is built with .
+This project is built with:
 
 - Vite
 - TypeScript
 - React
 - shadcn-ui
 - Tailwind CSS
+- Framer Motion
+- React Router
 
 ## How can I deploy this project?
 
