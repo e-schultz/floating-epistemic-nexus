@@ -15,6 +15,20 @@ FLOAT articulates seven core concepts represented through glyphs and visual meta
 6. **Memory as a Live System** - Understanding memory as ritual architecture, responsive and evolving
 7. **FLOAT Itself** - A way of surviving the archive, a rebellion staged in notation
 
+## Screenshots
+
+### Home Page
+![FLOAT Origin](public/lovable-uploads/4deb20ea-51de-422a-ab8d-8f404ac80e6c.png)
+
+### Elements Overview
+![The Seven Elements](public/lovable-uploads/46a4564a-c36b-459d-ba0b-e6f32ad204b1.png)
+
+### Concept Detail
+![Concept Detail](public/lovable-uploads/735ffed9-0975-4d45-818c-9d95c93500b9.png)
+
+### Archive
+![The Archive](public/lovable-uploads/e65e10f9-a1b2-4289-a7f5-99e9d95eed99.png)
+
 ## Project info
 
 **URL**: https://lovable.dev/projects/265faec4-5034-46e2-9fab-23e80a969d94
