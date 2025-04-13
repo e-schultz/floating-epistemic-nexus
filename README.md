@@ -1,6 +1,8 @@
 
 # FLOAT - Epistemic Nexus
 
+- https://floating-epistemic-nexus.lovable.app/
+
 FLOAT is a conceptual framework presented as an interactive digital experience. It explores epistemology, identity, and heresy through visual language and symbolic representation.
 
 ## Concepts
@@ -18,16 +20,14 @@ FLOAT articulates seven core concepts represented through glyphs and visual meta
 ## Screenshots
 
 ### Home Page
-![FLOAT Origin](public/lovable-uploads/4deb20ea-51de-422a-ab8d-8f404ac80e6c.png)
+![FLOAT Origin](public/screen1.png)
 
 ### Elements Overview
-![The Seven Elements](public/lovable-uploads/46a4564a-c36b-459d-ba0b-e6f32ad204b1.png)
+![The Seven Elements](public/screen2.png)
 
 ### Concept Detail
-![Concept Detail](public/lovable-uploads/735ffed9-0975-4d45-818c-9d95c93500b9.png)
+![Concept Detail](public/screen3.png)
 
-### Archive
-![The Archive](public/lovable-uploads/e65e10f9-a1b2-4289-a7f5-99e9d95eed99.png)
 
 ## Project info
 
